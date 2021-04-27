@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T16:05:14.413Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="4cjynjDv8d6vpItuma-Q" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T16:08:52.138Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Sd_XubxtVKrvDjG3UxX7" version="14.6.6" type="github">
   <diagram id="a_5FdtYtCZj7OGpo-Fc9" name="Page-1">
-    <mxGraphModel dx="8700" dy="3096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4380" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1674,6 +1674,44 @@
         <mxCell id="Uk2plu6qtKxTgSTMpd2H-201" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;v&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;code&gt;7.1.0&lt;/code&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Uk2plu6qtKxTgSTMpd2H-199">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="21" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uk2plu6qtKxTgSTMpd2H-202" value="&lt;code&gt;&lt;code&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px&quot;&gt;redux-devtools-extension&lt;/font&gt;&lt;/code&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/code&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="2970" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk2plu6qtKxTgSTMpd2H-203" value="&lt;code&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;code&gt;redux-batched-actions&lt;/code&gt;&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/code&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="2970" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk2plu6qtKxTgSTMpd2H-204" value="Label" style="endArrow=classic;html=1;entryX=0.444;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Uk2plu6qtKxTgSTMpd2H-20" target="Uk2plu6qtKxTgSTMpd2H-203">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1569.9999999999998" y="2894.78" as="sourcePoint" />
+            <mxPoint x="1875.2899999999997" y="2900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uk2plu6qtKxTgSTMpd2H-205" value="&lt;font style=&quot;font-size: 14px&quot;&gt;import&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Uk2plu6qtKxTgSTMpd2H-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uk2plu6qtKxTgSTMpd2H-206" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;v&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;code&gt;0.4.1&lt;/code&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Uk2plu6qtKxTgSTMpd2H-204">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="61" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uk2plu6qtKxTgSTMpd2H-207" value="Label" style="endArrow=classic;html=1;entryX=0;entryY=0.231;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.015;exitY=0.959;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Uk2plu6qtKxTgSTMpd2H-20" target="Uk2plu6qtKxTgSTMpd2H-202">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650.0000000000002" y="2860" as="sourcePoint" />
+            <mxPoint x="1757.9600000000003" y="2977.3300000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uk2plu6qtKxTgSTMpd2H-208" value="&lt;font style=&quot;font-size: 14px&quot;&gt;import&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Uk2plu6qtKxTgSTMpd2H-207">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uk2plu6qtKxTgSTMpd2H-209" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;v&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;code&gt;2.13.8&lt;/code&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Uk2plu6qtKxTgSTMpd2H-207">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
